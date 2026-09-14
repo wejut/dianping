@@ -13,10 +13,10 @@ Project Structure
 
 text
 heima-dianping
-├── src/main/java/com/hmdp
-│   ├── controller    # RESTful APIs for Shops, Types, and User Interactions
-│   ├── service       # Core Business Logic & Redis Cache Management
-│   ├── mapper        # Database Access Layer
-│   ├── dto / entity  # Data Transfer Objects & Database Entities
-│   └── utils         # Redis Cache Tools, Client Wrappers, and Interceptors
-└── src/main/resources
+  src/main/java/com/hmdp
+    controller    # RESTful APIs for Shops, Types, and User Interactions
+    service       # Core Business Logic & Redis Cache Management
+    mapper        # Database Access Layer
+    dto / entity  # Data Transfer Objects & Database Entities
+    utils         # Redis Cache Tools, Client Wrappers, and Interceptors
+   src/main/resources
