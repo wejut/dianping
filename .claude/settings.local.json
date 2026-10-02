@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version)",
+      "Bash(mvn -version)",
+      "Bash(mvn dependency:resolve -q)",
+      "Bash(npm --version)",
+      "Bash(command -v zip)",
+      "Bash(command -v tar)",
+      "Bash(command -v powershell.exe)"
+    ]
+  }
+}
